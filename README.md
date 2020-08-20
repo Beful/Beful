@@ -9,4 +9,4 @@
 ## 📫 联系我！
 - 微信 - xin_zai_zai
 - CSDN - [小心仔](https://blog.csdn.net/weixin_45395031)
-- 博客园 - [小心仔3](https://gc-codes.com)
+- 博客园 - [小心仔3](https://www.cnblogs.com/pettyxin/)
